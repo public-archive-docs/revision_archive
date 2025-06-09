@@ -1,0 +1,48 @@
+site_name: revision resources i guess
+site_description: as it says
+site_url: https://public.archive.sjb.github.io/revision-archive/
+
+theme:
+  name: material
+
+  palette:
+    - scheme: default
+      primary: yellow
+      accent: custom
+      toggle:
+        icon: material/lightbulb
+        name: god damn the sun
+
+    - scheme: slate
+      primary: black
+      accent: custom
+      toggle:
+        icon: material/lightbulb-outline
+        name: i like the sun actually
+
+nav:
+  - Home: index.md
+  - English:
+    - Language: english/language/index.md
+    - Literature:
+      - overview: english/literature/index.md
+      - paper 1:
+        - Romeo & Juliet:
+          - overview: english/literature/romeo_and_juliet/index.md
+        - Jekyll & Hyde:
+          - overview: english/literature/jekyll_and_hyde/index.md
+  - Maths:
+    - overview: maths/index.md
+  - Sciences (Triple):
+    - Biology:
+      - overview: sciences/biology/index.md
+    - Chemistry:
+      - overview: sciences/chemistry/index.md
+    - Physics:
+      - overview: sciences/physics/index.md
+  - History:
+    - overview : history/index.md
+  - Religious Education (RE):
+    - overview : religious_education/index.md
+  - Computing:
+    - overview: computing/index.md
