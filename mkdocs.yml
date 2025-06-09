@@ -1,7 +1,6 @@
 site_name: revision resources i guess
 site_description: as it says
-site_url: https://public.archive.sjb.github.io/revision-archive/
-
+site_url: https://public-archive-sjb.github.io/revision-archive/
 theme:
   name: material
 
