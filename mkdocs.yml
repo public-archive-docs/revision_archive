@@ -8,6 +8,16 @@ theme:
   logo: assets/images/he_will_be_baked_soon.png
   favicon: assets/images/he_will_be_baked_soon.png
 
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.prefetch
+    
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.expand
+    - navigation.top
+
   palette:
     - scheme: slate
       primary: black
