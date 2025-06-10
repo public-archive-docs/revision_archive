@@ -1,23 +1,27 @@
 site_name: revision resources i guess
 site_description: as it says
 site_url: https://public-archive-sjb.github.io/revision-archive/
+
 theme:
   name: material
 
-  palette:
-    - scheme: default
-      primary: yellow
-      accent: custom
-      toggle:
-        icon: material/lightbulb
-        name: god damn the sun
+  logo: assets/images/he_will_be_baked_soon.png
+  favicon: assets/images/he_will_be_baked_soon.png
 
+  palette:
     - scheme: slate
       primary: black
       accent: custom
       toggle:
         icon: material/lightbulb-outline
-        name: i like the sun actually
+        name: lights on
+
+    - scheme: default
+      primary: black
+      accent: custom
+      toggle:
+        icon: material/lightbulb
+        name: lights off
 
 nav:
   - Home: index.md
@@ -28,6 +32,10 @@ nav:
       - paper 1:
         - Romeo & Juliet:
           - overview: english/literature/romeo_and_juliet/index.md
+          - timeline: english/literature/romeo_and_juliet/timeline.md
+          - trival stuff:
+            - relations: english/literature/romeo_and_juliet/trivial_stuff/relations.md
+            - kill feed: english/literature/romeo_and_juliet/trivial_stuff/who_kills_who.md
         - Jekyll & Hyde:
           - overview: english/literature/jekyll_and_hyde/index.md
   - Maths:
@@ -45,3 +53,5 @@ nav:
     - overview : religious_education/index.md
   - Computing:
     - overview: computing/index.md
+  - Business:
+    - overview : business/index.md
