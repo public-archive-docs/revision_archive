@@ -6,8 +6,8 @@ the exam board used for literature is: `AQA`
 
 this will cover:
 
-- Romeo and Juliet
-- Jekyll and Hyde
+- [Romeo and Juliet](./romeo_and_juliet/index.md)
+- [Jekyll and Hyde](./jekyll_and_hyde/index.md)
 
 ## paper 2
 
