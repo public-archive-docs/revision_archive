@@ -1,5 +1,5 @@
-site_name: revision resources i guess
-site_description: as it says
+site_name: The Library
+site_description: "May you find your book in this place."
 site_url: https://public-archive-sjb.github.io/revision-archive/
 
 theme:
@@ -35,33 +35,115 @@ theme:
 
 nav:
   - Home: index.md
+
   - English:
-    - Language: english/language/index.md
+    - Language:
+      - Overview: english/language/index.md
     - Literature:
-      - overview: english/literature/index.md
-      - paper 1:
+      - Overview: english/literature/index.md
+      - Paper 1:
         - Romeo & Juliet:
-          - overview: english/literature/romeo_and_juliet/index.md
-          - timeline: english/literature/romeo_and_juliet/timeline.md
-          - trival stuff:
-            - relations: english/literature/romeo_and_juliet/trivial_stuff/relations.md
-            - kill feed: english/literature/romeo_and_juliet/trivial_stuff/who_kills_who.md
+          - Overview: english/literature/romeo_and_juliet/index.md
+          - Timeline: english/literature/romeo_and_juliet/timeline.md
+          - Trivial Stuff:
+            - Relations: english/literature/romeo_and_juliet/trivial_stuff/relations.md
+            - Kill Feed: english/literature/romeo_and_juliet/trivial_stuff/who_kills_who.md
         - Jekyll & Hyde:
-          - overview: english/literature/jekyll_and_hyde/index.md
+          - Overview: english/literature/jekyll_and_hyde/index.md
+          - Timeline: english/literature/jekyll_and_hyde/timeline.md
+
   - Maths:
-    - overview: maths/index.md
+    - Overview: maths/index.md
+
   - Sciences (Triple):
     - Biology:
-      - overview: sciences/biology/index.md
+      - Overview: sciences/biology/index.md
+      - Exchange and Transport:
+        - Overview: sciences/biology/exchange_and_transport/index.md
+      - Coordination, Control and Homeostasis:
+        - Overview: sciences/biology/coordination_control_homeostasis/index.md
+      - Plant Structures and Functions:
+        - Overview: sciences/biology/plant_structures_and_functions/index.md
+      - Key Concepts:
+        - Overview: sciences/biology/key_concepts/index.md
+
     - Chemistry:
-      - overview: sciences/chemistry/index.md
+      - Overview: sciences/chemistry/index.md
+      - Formulae, Equations and Hazards:
+        - Overview: sciences/chemistry/formulae_equations_hazards/index.md
+      - Bonding:
+        - Overview: sciences/chemistry/bonding/index.md
+      - Groups in the Periodic Table:
+        - Overview: sciences/chemistry/groups_in_the_periodic_table/index.md
+      - Reactions of Acids:
+        - Overview: sciences/chemistry/reactions_of_acids/index.md
+      - Obtaining and Using Metals:
+        - Overview: sciences/chemistry/obtaining_and_using_metals/index.md
+      - Energy in Reactions:
+        - Overview: sciences/chemistry/energy_in_reactions/index.md
+      - Reversible Reactions and Equilibrium:
+        - Overview: sciences/chemistry/reversible_reactions_and_equilibrium/index.md
+      - Electrolysis:
+        - Overview: sciences/chemistry/electrolysis/index.md
+
     - Physics:
-      - overview: sciences/physics/index.md
+      - Overview: sciences/physics/index.md
+      - Energy and Efficiency:
+        - Overview: sciences/physics/energy_and_efficiency/index.md
+      - Electrical Circuits:
+        - Overview: sciences/physics/electrical_circuits/index.md
+      - Forces and Movement:
+        - Overview: sciences/physics/forces_and_movement/index.md
+      - Using Electromagnetic Waves:
+        - Overview: sciences/physics/using_electromagnetic_waves/index.md
+      - Radioactivity:
+        - Overview: sciences/physics/radioactivity/index.md
+      - Astronomy:
+        - Overview: sciences/physics/astronomy/index.md
+      - Forces and Work Done:
+        - Overview: sciences/physics/forces_and_work_done/index.md
+      - Applications of Electricity:
+        - Overview: sciences/physics/applications_of_electricity/index.md
+
   - History:
-    - overview : history/index.md
+    - Overview: history/index.md
+    - America:
+      - 1920s:
+        - Overview: history\america\1920s\index.md
+      - The Depression:
+        - Overview: history\america\the_depression\index.md
+      - Post-War:
+        - Overview: history\america\post_war\index.md
+    - Cold War:
+      - Origins:
+        - Overview: history\cold_war\origins\index.md
+      - Development:
+        - Overview: history\cold_war\development\index.md
+      - Transformation:
+        - Overview: history\cold_war\transformation\index.md
+
+
   - Religious Education (RE):
-    - overview : religious_education/index.md
+    - Overview: religious_education/index.md
+    - Catholic Beliefs and Teaching:
+      - Overview: religious_education\catholic_beliefs_and_teachings\index.md
+    - Catholic Practices:
+      - Overview: religious_education\catholic_practices\index.md
+    - Sources of Wisdom and Authority:
+      - Overview: religious_education\sources_of_wisdom_and_authority\index.md
+    - Forms of Expression and Catholic Art:
+      - Overview: religious_education\forms_of_expression_and_catholic_art\index.md
+    - Jewish Beliefs:
+      - Overview: religious_education\jewish_beliefs\index.md
+
   - Computing:
-    - overview: computing/index.md
+    - Overview: computing/index.md
+
   - Business:
-    - overview : business/index.md
+    - Overview: business/index.md
+    - Business in the Real World:
+      - Overview: business/business_in_the_real_world/index.md
+    - Human Resources:
+      - Overview: business/human_resources/index.md
+    - Marketing:
+      - Overview: business/marketing/index.md
