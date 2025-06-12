@@ -109,32 +109,40 @@ nav:
     - Overview: history/index.md
     - America:
       - 1920s:
-        - Overview: history\america\1920s\index.md
+        - Overview: history/america/1920s/index.md
+        - Causes of the Economic Boom: history/america/1920s/causes_of_the_boom.md
+        - Henry Ford: history/america/1920s/henry_ford.md
+        - Republican Policies: history/america/1920s/republican_policies.md
+        - The Entertainment Industry: history/america/1920s/entertainment_industry.md
+        - Life for Women in the 1920s: history/america/1920s/women.md
+        - Prohibition and Organised Crime: history/america/1920s/prohibtion_and_organised_crime.md
+        - How Immigrants were Treated in the 1920s: history/america/1920s/immigration.md
+        - Life for African Americans in the 1920s: history/america/1920s/life_for_african_americans.md
       - The Depression:
-        - Overview: history\america\the_depression\index.md
+        - Overview: history/america/the_depression/index.md
       - Post-War:
-        - Overview: history\america\post_war\index.md
+        - Overview: history/america/post_war/index.md
     - Cold War:
       - Origins:
-        - Overview: history\cold_war\origins\index.md
+        - Overview: history/cold_war/origins/index.md
       - Development:
-        - Overview: history\cold_war\development\index.md
+        - Overview: history/cold_war/development/index.md
       - Transformation:
-        - Overview: history\cold_war\transformation\index.md
+        - Overview: history/cold_war/transformation/index.md
 
 
   - Religious Education (RE):
     - Overview: religious_education/index.md
     - Catholic Beliefs and Teaching:
-      - Overview: religious_education\catholic_beliefs_and_teachings\index.md
+      - Overview: religious_education/catholic_beliefs_and_teachings/index.md
     - Catholic Practices:
-      - Overview: religious_education\catholic_practices\index.md
+      - Overview: religious_education/catholic_practices/index.md
     - Sources of Wisdom and Authority:
-      - Overview: religious_education\sources_of_wisdom_and_authority\index.md
+      - Overview: religious_education/sources_of_wisdom_and_authority/index.md
     - Forms of Expression and Catholic Art:
-      - Overview: religious_education\forms_of_expression_and_catholic_art\index.md
+      - Overview: religious_education/forms_of_expression_and_catholic_art/index.md
     - Jewish Beliefs:
-      - Overview: religious_education\jewish_beliefs\index.md
+      - Overview: religious_education/jewish_beliefs/index.md
 
   - Computing:
     - Overview: computing/index.md
