@@ -1,15 +1,24 @@
-# summary
+# Summary
 
 Romeo and Juliet contains:
 
-- act 1:
-	- prologue
-	- 5 scenes
-- act 2:
-	- 6 scenes
-- act 3:
-	- 5 scenes
-- act 4:
-	- 5 scenes
-- act 5
-	- 3 scenes
+## <u>Act 1</u>
+
+- Prologue
+- 5 scenes
+
+## <u>Act 2</u>
+
+- 6 scenes
+
+## <u>Act 3</u>
+
+- 5 scenes
+
+## <u>Act 4</u>
+
+- 5 scenes
+
+## <u>Act 5</u>
+
+- 3 scenes

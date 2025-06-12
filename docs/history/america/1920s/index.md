@@ -1,6 +1,6 @@
-# overview
+# Overview
 
-this unit covers:
+This unit covers:
 
 - [Causes of the Economic Boom](./causes_of_the_boom.md)
 - [Henry Ford](./henry_ford.md)

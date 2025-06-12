@@ -1,35 +1,37 @@
 # Characters of Romeo and Juliet
 
-## neutral
+- Kinsman - cousin
+
+## <u>Neutral</u>
 
 - Prince Escales
 - Mercutio
-	- kinsman of Escales
+	- Kinsman of Escales
 - Paris
-	- kinsman of Escales
+	- Kinsman of Escales
 - Friar Lawerence
 - Friar John
-	- servant of Friar Lawrence
+	- Servant of Friar Lawrence
 - Nurse
-	- servant of Juliet
+	- Servant of Juliet
 - Peter
-	- servant of the Nurse
+	- Servant of the Nurse
 - Balthasar
-	- servant of Romeo
+	- Servant of Romeo
 
-## montagues
+## <u>Montagues</u>
 
 - Lord and Lady
 - Benvolio
-	- newphew of Lord Montague
+	- Newphew of Lord Montague
 - Romeo
 
-## capulets
+## <u>Capulets</u>
 
 - Lord and Lady
 - Tybalt
-	- nephew of Lady Capulet
-	- referred to as the "King of Cats"
+	- Nephew of Lady Capulet
+	- Referred to as the "King of Cats"
 - Rosaline
-	- niece of Lord Capulet
-- Juliet
+	- Niece of Lord Capulet
+- Julie

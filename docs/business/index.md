@@ -1,3 +1,3 @@
-# guide to business
+# Guide to Business
 
-the exam board used for business is: `AQA`
+The exam board used for business is: `AQA`

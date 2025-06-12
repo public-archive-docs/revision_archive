@@ -1,3 +1,3 @@
-# guide to science - physics
+# Guide to science - Physics
 
-the exam board used for physics is: `Edexcel`
+The exam board used for physics is: `Edexcel`

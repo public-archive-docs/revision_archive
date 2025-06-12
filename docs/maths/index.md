@@ -1,14 +1,14 @@
-# guide to maths
+# Guide to Maths
 
-the exam board used for maths is: `Edexcel`
+The exam board used for maths is: `Edexcel`
 
-## papers
+## <u>Papers</u>
 
-there will be a:
+There will be a:
 
-- calculator
-- non-calculator
+- Calculator
+- Non-calculator
 
-## when summaries?
+## <u>When summaries?</u>
 
-never just get good
+Never just get good

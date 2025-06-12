@@ -1,6 +1,6 @@
-# summary
+# Summary
 
-The Strange Case of Dr. Jekyll & Mr. Hyde contains 10 chapters:
+Jekyll & Hyde contains 10 chapters:
 
 - Chapter 1: Story of the Door
 - Chapter 2: Search for Mr. Hyde

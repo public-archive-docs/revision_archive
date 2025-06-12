@@ -1,10 +1,10 @@
-# guide to history
+# Guide to History
 
-the exam board used for history is: `AQA`
+The exam board used for history is: `AQA`
 
-## paper 1
+## <u>Paper 1</u>
 
-this will cover:
+This will cover:
 
 - America
 	- 1920s
@@ -15,9 +15,9 @@ this will cover:
 	- Development
 	- Transformation
 
-## paper 2
+## <u>Paper 2</u>
 
-this will cover:
+This will cover:
 
 - Normans
 	- Conquest & Control

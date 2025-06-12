@@ -1,8 +1,8 @@
 # Kill Feed of Romeo and Juliet
 
-## Kill Feed
+## <u>Kill Feed</u>
 
-this is in order of when the deaths happen, suprisingly only 5 people die in total
+This is in order of when the deaths happen, suprisingly only 5 people die in total
 
 - Tybalt kills Mercutio
 - Romeo kills Tybalt

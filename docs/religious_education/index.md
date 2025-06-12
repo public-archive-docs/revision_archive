@@ -1,8 +1,8 @@
-# guide to religious education
+# Guide to Religious Education
 
-the exam board used for literature is: `Edexcel`
+The exam board used for literature is: `Edexcel`
 
-## paper 1
+## <u>Paper 1</u>
 
 this will cover:
 
@@ -11,7 +11,7 @@ this will cover:
 - [Sources of Wisdom and Authority](./sources_of_wisdom_and_authority/index.md)
 - [Forms of Expression and Catholic Art](./forms_of_expression_and_catholic_art/index.md)
 
-## paper 2
+## <u>Paper 2</u>
 
 this will cover:
 

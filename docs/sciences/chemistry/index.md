@@ -1,3 +1,3 @@
-# guide to science - chemistry
+# Guide to science - Chemistry
 
-the exam board used for chemistry is: `Edexcel`
+The exam board used for chemistry is: `Edexcel`

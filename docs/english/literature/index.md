@@ -1,17 +1,17 @@
-# guide to english - literature
+# Guide to English - Literature
 
-the exam board used for literature is: `AQA`
+The exam board used for literature is: `AQA`
 
-## paper 1
+## <u>Paper 1</u>
 
-this will cover:
+This will cover:
 
 - [Romeo and Juliet](./romeo_and_juliet/index.md)
 - [Jekyll and Hyde](./jekyll_and_hyde/index.md)
 
-## paper 2
+## <u>Paper 2</u>
 
-this will cover:
+This will cover:
 
 - An Inspector Calls
 - Unseen Poetry

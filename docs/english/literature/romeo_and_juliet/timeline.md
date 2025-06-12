@@ -1,6 +1,6 @@
 # Timeline of Romeo and Juliet
 
-## Act 1
+## <u>Act 1</u>
 
 ### Scene 1
 
@@ -28,7 +28,7 @@
 - Lord Capulet reprimands Tybalt and he reluctantly complys with Lord Capulet's commands as he would be punished if he had not
 
 
-## Act 2
+## <u>Act 2</u>
 
 ### Scene 1
 
@@ -78,7 +78,7 @@
 - Friar Lawrence then marries them
 
 
-## Act 3
+## <u>Act 3</u>
 
 ### Scene 1
 
@@ -143,7 +143,7 @@
 - Juliet tells the Nurse to tell her parents that she will confess her sin of disobedience to Friar Lawrence
 - When the Nurse leaves, Juliet condemns her as a "wicked fiend" and visits Friar Lawrence, if he has no solution then she will kill herself
 
-## Act 4
+## <u>Act 4</u>
 
 ### Scene 1
 
@@ -182,7 +182,7 @@
 - Lord Capulet states that all the things they had gathered for the wedding will now be of use for the funeral, "all things change them to the contrary"
 
 
-## Act 5
+## <u>Act 5</u>
 
 ### Scene 1
 

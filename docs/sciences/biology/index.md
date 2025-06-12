@@ -1,3 +1,3 @@
-# guide to science - biology
+# Guide to science - Biology
 
-the exam board used for biology is: `Edexcel`
+The exam board used for biology is: `Edexcel`
