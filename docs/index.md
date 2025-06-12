@@ -1,3 +1,3 @@
 # Welcome
 
-this is this and that is that
+Big old archive of GCSE content compiled by me
