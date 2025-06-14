@@ -189,7 +189,7 @@
 - Romeo is feeling cheerful as in a dream, it foretells "some joyful news", although in this dream, Juliet found him dead, she had brought him back to life with a kiss
 - He marvels if this dream, the sweet "shadow" of love is "so rich in joy" then how sweeter the real thing will be
 - Balthasar arrives with the news Juliet is dead, "her body sleeps in the Capel's monument", he asks Romeo's forgiveness for having to bring bad news
-- Balthasar tells Romeo he holds no letters from Friar Lawrence, Romeo sends Balthasar for "ink abnd paper" and horses and reveals to him he is going to poison himself next to Juliet's body
+- Balthasar tells Romeo he holds no letters from Friar Lawrence, Romeo sends Balthasar for "ink and paper" and horses and reveals to him he is going to poison himself next to Juliet's body
 - He visits an apothecary (pharamacy), who he knows he will agree to sell Romeo a deadly poison
 - He sets for the Capulet tomb with the poison which he calls a "cordial" (pleasant tasting medicine) as it will cure him
 
