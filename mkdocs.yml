@@ -8,6 +8,10 @@ theme:
   logo: assets/images/he_will_be_baked_soon.png
   favicon: assets/images/he_will_be_baked_soon.png
 
+  font:
+    text: Jura
+    code: Jura
+
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -37,8 +41,6 @@ nav:
   - Home: index.md
 
   - English:
-    - Language:
-      - Overview: english/language/index.md
     - Literature:
       - Overview: english/literature/index.md
       - Paper 1:
@@ -51,6 +53,8 @@ nav:
         - Jekyll & Hyde:
           - Overview: english/literature/jekyll_and_hyde/index.md
           - Timeline: english/literature/jekyll_and_hyde/timeline.md
+    - Language:
+      - Overview: english/language/index.md
 
   - Maths:
     - Overview: maths/index.md
@@ -108,6 +112,7 @@ nav:
   - History:
     - Overview: history/index.md
     - America:
+      - Overview: history/america/index.md
       - 1920s:
         - Overview: history/america/1920s/index.md
         - Causes of the Economic Boom: history/america/1920s/causes_of_the_boom.md
@@ -123,12 +128,30 @@ nav:
       - Post-War:
         - Overview: history/america/post_war/index.md
     - Cold War:
+      - Overview: history/cold_war/index.md
       - Origins:
         - Overview: history/cold_war/origins/index.md
+        - Changing Alliances: history/cold_war/origins/changing_alliances.md
+        - Yalta Conference: history/cold_war/origins/yalta_conference.md
+        - Potsdam Conference: history/cold_war/origins/potsdamn_conference.md
+        - The Atomic Bomb: history/cold_war/origins/the_atomic_bomb.md
+        - Soviet Expansion: history/cold_war/origins/soviet_expansion.md
+        - Truman Doctrine and Marshall Plan: history/cold_war/origins/truman_doctrine_and_marshall_plan.md
+        - Berlin Blockade and Airlift: history/cold_war/origins/berlin_blockade_and_airlift.md
       - Development:
         - Overview: history/cold_war/development/index.md
+        - Communism in Asia: history/cold_war/development/communism_in_asia.md
+        - NATO, Warsaw Pact, Arms Race and Space Race: history/cold_war/development/nato_warsaw_pact_arms_race_and_space_race.md
+        - Khrushchev Policies: history/cold_war/development/khrushchev_policies.md
+        - Hungarian Revolution: history/cold_war/development/hungary_revolution_1956.md
+        - U2 Crisis: history/cold_war/development/u2_crisis.md
       - Transformation:
         - Overview: history/cold_war/transformation/index.md
+        - Berlin Wall: history/cold_war/transformation/berlin_wall.md
+        - Events in Cuba before 1961: history/cold_war/transformation/events_in_cuba_until_1961.md
+        - Cuban Missile Crisis: history/cold_war/transformation/cuban_missile_crisis.md
+        - Czechoslovakaia: history/cold_war/transformation/czechoslovakia.md
+        - Detente: history/cold_war/transformation/detente.md
 
 
   - Religious Education (RE):
