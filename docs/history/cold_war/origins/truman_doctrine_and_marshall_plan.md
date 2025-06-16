@@ -74,3 +74,27 @@
 	- Advisers to help rebuild transport systems
 - Marshall aid had a huge effect, in years 1948-1952 was a time of economic growth
 	- Also stopped the spread of Communism as predicted by George Marshall
+
+## Comecon and Cominform
+
+### Comiform
+
+- Set up in 1947
+- Communist Information Bereau
+- Aimed to coordinate various Communist goverments in Eastern Europe
+- Ran meetings and sent instructions to Communist govenments about what the USSR wanted to do
+
+### Comecon
+
+- Set up in 1949
+- Council for Mutual Economic Assistance
+- Aimed to coordinate the trade and industries of Eastern European countries
+- Set up an international bank for Communist and socialist countries in 1964
+- Favoured the USSR far more than any of its other members
+
+### Cominform
+
+- Set up in 1947
+- Communist informarion bureau
+- Aimed to coordinate various Communist governments in Eastern Europe
+- Ran meetings and sent instructions to Communist governments about what the USSR wanted them to do
