@@ -1,5 +1,7 @@
 # America
 
+[^1]: Purpose, Author, Nature, Date, Auidence
+
 ## Contents
 
 - [1920s](./1920s/index.md)
@@ -16,9 +18,13 @@
 
 - 2 paragraphs
 - Identify
-	- "A way interpretation A and B differ is..."
+	- "Interpretation A and B differ because..., however..."
 - Explain
-	- "Interpretation A says that..., while interpretation states that..."
+	- "Interpretation A says...,"
+	- "Interpretation B says..."
+
+!!! example
+	"Interpretation A and B differ because (evidence from interpretation)... interpretation A says that (explaination)..., however, interpretation B says that (explaination)..."
 
 ##### Explaination
 
@@ -33,17 +39,19 @@
 
 - 2 paragraphs
 - Identify
-	- "Interpretations A and B differ because of their (PANDA), A's (related to selected PANDA) is... whereas B's (related to selected PANDA) is..."
+	- "Interpretations A and B differ because of their (PANDA)[^1], A is (related to selected PANDA)[^1]... whereas B is (related to selected PANDA)[^1]"
 - Explain
-	- "This makes their arguments differ as interpretation A (explaination linked to selected PANDA)... while interpreation B (explain linked to selected PANDA)..."
-- Use (Purpose, Author, Nature, Date or Auidence (PANDA))
+	- "this means..."
+
+!!! example
+	"Interpretation A and B differ because of their (PANDA)[^1], A is (evidence from interpretation)... this means (explaination)..., however B is (evidence from interpretation)... this means (explaination)..."
 
 ##### Explaination
 
 - Make a point (identify):
-	- Select a PANDA point to explain in the paragraph related to both interpretations
-	- Selected evidence in the interpretation must correlate with the selected PANDA point
-		- If selected PANDA is purpose, then A and B would have to talk about the purpose of the interpretation
+	- Select a PANDA[^1] point to explain in the paragraph related to both interpretations
+	- Selected evidence in the interpretation must correlate with the selected PANDA[^1] point
+		- If selected PANDA[^1] is purpose, then A and B would have to talk about the purpose of the interpretation
 - Explain the difference:
 	- Explain using the interpretation and contextual knowledge how they differ with eachother
 
@@ -58,11 +66,14 @@
 		- State which interpretation is the most convincing (A/B)
 		- Give a reason why the selected interpretation is most convincing
 		- Give a reason why you have rejected the other interpretation
-- No PANDA
+- No PANDA[^1]
 - Identify
 	- "Interpretation A/B states that..."
 - Explain
 	- "This is convincing because..."
+
+!!! example
+	"A reason why A is convincing is because it says that (evidence from interpretation). This is convincing because (explaination)..."
 
 ##### Explaination
 
