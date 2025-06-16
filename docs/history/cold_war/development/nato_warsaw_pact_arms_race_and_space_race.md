@@ -35,11 +35,16 @@
 
 ### Quotes about the agreement
 
-- "The North Atlantic Treaty is not about the self-defense of states. These states are not threatened by anyone, no one intends to attack them. On the contrary, the Treaty has an aggressive characteristic and is aimed against the USSR"
-	- Soviet protest note on the formation of Nato
-- "Like others, my country has had forced upon it the task of fighting two world wars against aggression within a quarter of a century. Today will bring a feeling of relief. At last democracy is no longer a series of isolated units"
-	- Ernest Bevin speaking on formation of NATO
-		- Former secretary of state for foreign and commonwealth affairs of the UK
+!!! quote
+	"The North Atlantic Treaty is not about the self-defense of states. These states are not threatened by anyone, no one intends to attack them. On the contrary, the Treaty has an aggressive characteristic and is aimed against the USSR"
+	!!! note "From"
+		- Soviet protest note on the formation of NATO
+
+!!! quote
+	"Like others, my country has had forced upon it the task of fighting two world wars against aggression within a quarter of a century. Today will bring a feeling of relief. At last democracy is no longer a series of isolated units"
+	!!! note "From"
+		- Ernest Bevin speaking on formation of NATO
+			- Former secretary of state for foreign and commonwealth affairs of the UK
 
 
 ## Warsaw Pact

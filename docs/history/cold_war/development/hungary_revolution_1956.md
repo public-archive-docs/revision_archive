@@ -15,7 +15,7 @@
 	- Tried to sell Hungarian cattle as Soviet Cattle
 	- Said Hungarians were wearing warm clothes but they were too expensive to buy
 
-## What wwere conditions like in Hungary under the Soviets and why?
+## What were conditions like in Hungary under the Soviets and why?
 
 - Expensive to buy anything
 - Soviets took large amount of food from Hungary
