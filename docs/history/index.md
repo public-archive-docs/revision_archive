@@ -10,7 +10,7 @@ This will cover:
 	- [1920s](./america/1920s/index.md)
 	- [The Depression](./america/the_depression/index.md)
 	- [Post-War](./america/post_war/index.md)
-- Cold War
+- [Cold War](./cold_war/index.md)
 	- [Origins](./cold_war/origins/index.md)
 	- [Development](./cold_war/development/index.md)
 	- [Transformation](./cold_war/transformation/index.md)
