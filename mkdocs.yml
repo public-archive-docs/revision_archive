@@ -2,6 +2,12 @@ site_name: The Library
 site_description: "May you find your book in this place."
 site_url: https://public-archive-sjb.github.io/revision-archive/
 
+markdown_extensions:
+  - footnotes
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 theme:
   name: material
 
