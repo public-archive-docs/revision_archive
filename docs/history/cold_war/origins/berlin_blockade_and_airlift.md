@@ -29,6 +29,6 @@
 - Social Democrats called a mass rally
 - Berliners refused to panic
 
-### May 1948
+### May 1949
 
 - Blockade ended
