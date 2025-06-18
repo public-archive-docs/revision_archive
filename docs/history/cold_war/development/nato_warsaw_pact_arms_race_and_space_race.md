@@ -95,18 +95,27 @@
 	- Propaganda campaign
 	- Shows public hysteria
 - USA publishes to the public how to make nuclear bomb shelters in their home
+- President Eisenhower announced a programme to develop a man-made satellite
 
 ### 1957 - USSR in the lead
 
 - Soviets test the worlds first Intercontentinental Ballistic Missile (ICBM)
-- Russia launches first space satelite, Sputnik-1
-- USSR sends a dog to space
-- USA launches a rocket called the "Vanguard" and it fails
+
+#### October
+
+- USSR launches first space satelite, Sputnik-1
+
+#### November
+
+- USSR launches Sputnik-2, carrying a dog named Laika (rubs salt into wound for the US)
+- USA responds by pouring money in space research and new/existing programmes
+- They also launch the Vanguard TV3 which fails, crashes and blows up
+- New project: Explorer
 
 ### 1958 - USA in the lead
 
-- USA launches the Explorer 1 satelitle
-	- Considered better than Sputnik-1, 2 and 3
+- USA investments pay off, launches the Explorer 1 satelitle in July
+	- Considered better than Sputnik-1 and 2
 - USA set up the National Aeronautics Space Administration (NASA)
 
 ### 1959 - USA in the lead
@@ -116,13 +125,16 @@
 
 ### 1961 - USSR in the lead
 
-- USSR sends the first man to space, Yuri Gagarin
+- Soviet's Vostok Rocket programme sends the first man to space, Yuri Gagarin
+- When Yuri landed, he was celebrated as a hero in the USSR and was a worldwide celebrity
+- Kennedy launches the Apollo programme
+	- The Apollo programme lasts 1961-1975
 - USSR uses the Tsar Bomba
 
 ### 1962 - USSR in the lead
 
 - Khrushchev sends Soviet missiles into Cuba
-	- Cuban Missile Crisis
+	- [Cuban Missile Crisis](../transformation/cuban_missile_crisis.md)
 
 ### 1963 - USSR in the lead
 
