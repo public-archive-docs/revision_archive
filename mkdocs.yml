@@ -1,6 +1,6 @@
 site_name: The Library
 site_description: "May you find your book in this place."
-site_url: https://public-archive-docs.github.io/revision-archive/
+site_url: https://public-archive-docs.github.io/revision_archive/
 
 markdown_extensions:
   - footnotes
@@ -60,6 +60,11 @@ nav:
         - Jekyll & Hyde:
           - Overview: english/literature/jekyll_and_hyde/index.md
           - Timeline: english/literature/jekyll_and_hyde/timeline.md
+          - Key Themes: english/literature/jekyll_and_hyde/key_themes.md
+          - Quotes:
+            - Utterson's Quotes: english/literature/jekyll_and_hyde/quotes/utterson.md
+            - Hyde's Quotes: english/literature/jekyll_and_hyde/quotes/hyde.md
+            - Setting Quotes: english/literature/jekyll_and_hyde/quotes/setting.md
     - Language:
       - Overview: english/language/index.md
 
