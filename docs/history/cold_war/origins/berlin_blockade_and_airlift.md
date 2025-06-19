@@ -5,8 +5,8 @@
 ### May - August 1945
 
 - Split into 4 zones of military occupation after [Yalta](./yalta_conference.md) and [Potsdam](./potsdamn_conference.md)
-- Berlin occupied by Russians for 2 months initially then by the Western powers in their sectors on July 1st (Britain, US and French)
-- Disagreements started, Russians proposed the biggest Socialist party in Germany should combine with the Communist
+- Berlin occupied by Soviets for 2 months initially then by the Western powers in their sectors on July 1st (Britain, US and French)
+- Disagreements started, Soviets proposed the biggest Socialist party in Germany should combine with the Communist
 	- Socialists in Western sector believed it should be up to a vote
 	- They suspected unity with Communists = unity under the Communists
 	- Majority in Western sectors rejected this idea
@@ -15,7 +15,7 @@
 
 ### October 1945
 
-- Russians had great hopes that the Communist led Socialist unity party would win, they lost
+- Soviets had great hopes that the Communist led Socialist unity party would win, they lost
 - Led by Ernest Reuter, the non-Communist, social democratic party got almost half of the votes
 
 ### March 1946
@@ -33,16 +33,16 @@
 
 - Western Powers met in London to decide on a seperate, Western state
 - Did not consult USSR on this nor told them what was happening
-- In Berlin the Russians wanted to know what happened in London
-- General Clay, the American representative refused to tell, the Russians walked out
+- In Berlin the Soviets wanted to know what happened in London
+- General Clay, the American representative refused to tell, the Soviets walked out
 - Brought allied cooperation to an end
-- Russians began traffic restrictions to routes to the West
+- Soviets began traffic restrictions to routes to the West
 - Allies announced only their currencies would be allowed instead of the inflated wartime currency in West Berlin
 - USSR saw this as provacative as they wanted to introduce their currency not only in East Berlin but the whole entirety of Berlin
 
 ### June 1948
 
-- Russians stopped all rail transport (blockade) on the 24th of June
+- Soviets stopped all rail transport (blockade) on the 24th of June
 - Allies started an airlift of resources on the 25th of June
 	- Provided 2 million people with necessity of life
 	- Five thouand tonnes of supplies a day despite weather or accidents
