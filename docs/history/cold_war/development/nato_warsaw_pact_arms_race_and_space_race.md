@@ -81,6 +81,10 @@
 
 ## Arms and Space Race
 
+### 1949 - USSR in the lead
+
+- USSR exploded it's first atomic bomb
+
 ### 1950s - USSR in the lead
 
 - Entire towns like Arzamas-16 were created in the USSR to house engineers and scientists

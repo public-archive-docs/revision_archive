@@ -2,7 +2,7 @@
 
 ## Who was the American pilot of the U2 plane?
 
-- Gary Powers
+- Gary Powers on May 1st 1960
 
 ## Which part of the American government decided to launch the U2 planes?
 
@@ -15,11 +15,12 @@
 ## What did the USA hope to find out from their missions?
 
 - Get information about the USSR that they previously didn't have
+- Close the missile gap
 
 ## What was so special about the U2
 
 - Could fly to 70,000 feet over 3,000 miles per hour
-	- Not able to be caught by ground missiles
+	- Not able to be caught by ground missiles and jet fighters
 
 ## What was the main incentive for the U2 reconnaissance pilots
 
@@ -27,11 +28,12 @@
 
 ## How many ICBMs did the USSR have by 1960?
 
-- Only about 10
+- Only about 30
+- Soviet missile programme had setbacks
 
 ## What were the pilots given to take with them in case they were caught?
 
-- Pill inside a dollar containing cyanide pill
+- Pill inside a sliver dollar containing cyanide pill
 
 ## What did Khrushchev demand happen to any U2 planes
 
@@ -39,7 +41,7 @@
 
 ## Why did the USA not support Gary Powers?
 
-- Did not self-destruct the plan
+- Did not self-destruct the plane
 - They were embarassed by this failure
 - Did not like the fact he told the truth and cover up what happened
 - Did not take the cyanide pill

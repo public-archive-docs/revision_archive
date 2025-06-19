@@ -53,3 +53,13 @@
 - One of the worst incidents took place at Kent State University in Ohio, May 1970
 	- A peaceful student demonstration turned violent when National Guard was sent in to disperse the students
 		- 4 students were kiled
+
+
+## SALT (Strategic Arms Limitation Talks) 1
+
+- 1972
+- Focused on restricting strategic armaments
+- USSR and USA agreed to limiting of ABMs (anti-ballistic missile systems)
+- Also agreed to together to limit of offensive strategic weapons
+	- Further negotiations to limit all strategic arms
+- The agreement is a major step to break the stalemate in nuclear arms talks

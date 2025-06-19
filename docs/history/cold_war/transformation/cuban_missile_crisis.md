@@ -44,3 +44,14 @@
 ## What did Khrushchev state on October 28th 1962?
 
 - Declared the removal and dismantal of Soviet missiles in Cuba
+
+## What event occured to help the easing of tensions in the Cold War in 1963?
+
+- The USA and USSR prepared steps to reduce risk of nuclear war
+- A permanent hotline phone link direct from the White House and Kremlin was set up
+
+## What was signed in the following year of 1963?
+
+- The Nuclear Test Ban Treaty
+	- Did not stop development of weapons
+	- Limited tests
