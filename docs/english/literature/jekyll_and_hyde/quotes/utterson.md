@@ -91,3 +91,63 @@
 ### "counted them the chief jewel of each week"
 
 - Metaphor: Uterrson and Enfield consider their Sunday walks the most precious thing
+
+
+## Chapter 2
+
+### "[Utterson] came home to his bachelor house in sombre spirits"
+
+- Bachelor house - women not prevalent in the play - victorian era was a patriarchal society, dominated by men
+- Sombre spirits relates to his stoic nature
+
+---
+
+### "[Utterson] sat down to dinner without relish"
+
+- Did not eat dinner to enjoy, ate to survive, stoic and disciplined nature
+
+---
+
+### "when this meal was over, to sit close by the fire"
+
+- Seeking the light and the warmth, path of righteousness
+
+---
+
+### "There he opened his safe, took from the most private part of it a document endorsed on the envelope as Dr. Jekyll's will"
+
+- Links to secrecy/barriers
+
+---
+
+### "but now, his imagination also was engaged, or rather enslaved"
+
+- Presents Utterson's duality as earlier in the novella, he is presented as collected and disciplined
+- This contrasts this previous character as his mind is now is focused and making the irrational decision to continue to persue Hyde while Hyde being a dangerous figure
+
+---
+
+### "tossed in the gross darkness of the night and the curtained room, Mr. Enfield's tale went by before his mind in a scroll of lighted pictures"
+
+- Semantic feel of torture with the repeat of barriers, this use of barriers could be interpreted as the answer to the mystery of Hyde being shielded away
+- The tale going by before his mind in a scroll relates to how a scroll is rolled out and the story unravels, this additionally adds to the contrast of the presentation of Utterson's character before
+
+---
+
+### "Utterson began to haunt the door"
+
+- Haunting is a gothic genre
+- Irony - Utterson is haunting the door as it does to him
+- Temptation of uncovering Hyde's mysteries
+
+---
+
+### "Yet his attention had never before been so sharply and decisively arrested"
+
+- Utterson is responding to the ["odd light footsteps"](./hyde.md/#odd-light-footsteps) to responding to a predator as prey, Hyde is presented as dangerous here, compared to a predator
+
+---
+
+### "only grunted in acknowledgment of the address"
+
+- Utterson is taking on some of the animalistic natures of Hyde

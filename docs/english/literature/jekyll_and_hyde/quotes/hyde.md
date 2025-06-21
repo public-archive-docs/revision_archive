@@ -8,7 +8,7 @@
 
 ---
 
-### "stumping alonbg eastwards"
+### "stumping along eastwards"
 
 - Stumping - walking irreguarly, stiffly, sense of deformity
 - Eastwards is a biblical allusion referring to the East of Eden, land of sinners
@@ -60,3 +60,82 @@
 
 - Hyde is regarding as inhuman with the repitition of 'something'
 - Hyde as usually invokes a visceral reaction to people who lay sight on him, described as disgusting
+
+
+## Chapter 2
+
+### "It was worse when it began to be clothed upon with destestable attributes; out of the shifting, insubstanial mists that had so long baffled his eye, there leaped up the sudden, definite presentment of a fiend"
+
+- Figurative language connotes to a image of a monster
+- Mists - symbolic to reflect about the mystery of the plot and about Hyde
+
+---
+
+### "odd light footsteps"
+
+- Hyde is degenerated, underdeveloped, deformed
+
+---
+
+### "Hyde shrank back with a hissing intake of breath"
+
+- Zoomorphism relating to a snake
+	- This relates to the Bible in revelations where a great dragon, a serpent, was cast out dubbed the Devil or Satan as the Great Deceiver
+
+---
+
+### "the other snarled aloud into a savage laugh"
+
+- Zoomorphism - snarled is an aggressive growl similar to an angry voice
+- Savage - derived from a word for native people, relates to the fear of the unknown
+
+---
+
+### "with extraordinary quickness"
+
+- Supernatural
+
+---
+
+### "[Utterson] putting his hand to his brow like a man in mental perplexity"
+
+- Hyde has an unsettling nature that Utterson had to contemplate about it
+- Simile: Utterson contrasts his character from before from being calm and collected to being puzzled
+
+---
+
+### "he gave an impression of deformity without any nameable malformation"
+
+- Hyde physically doesn't seem deformed
+- Hyde could be deformed somewhere else such as mentally
+- Hyde could be too perplexing for one to analyse
+
+---
+
+### "muderous mixture of timidity and boldness"
+
+- Oxymoron and paradoxical, timidity and boldness - presents Hyde as unpredictable and dangerous in the word "murderous"
+
+---
+
+### "unknown disgust, loathing and fear"
+
+- Triple: Hyde cannot be explained, something supernatural and people get this feeling around Hyde, a sense of "deformity"
+
+---
+
+### "something troglodytic"
+
+- Troglodytic - early human, Darwin's theory suggests underdevelopment and deformity
+
+---
+
+### "foul soul that thus transpires through"
+
+- Feeling of degeneracy
+
+---
+
+### "I read Satan's signature upon a face"
+
+- Parallels Hyde and the Devil, they are similar

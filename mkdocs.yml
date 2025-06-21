@@ -63,7 +63,9 @@ nav:
           - Key Themes: english/literature/jekyll_and_hyde/key_themes.md
           - Quotes:
             - Utterson's Quotes: english/literature/jekyll_and_hyde/quotes/utterson.md
+            - Jekyll's Quotes: english/literature/jekyll_and_hyde/quotes/jekyll.md
             - Hyde's Quotes: english/literature/jekyll_and_hyde/quotes/hyde.md
+            - Lanyon's Quotes: english/literature/jekyll_and_hyde/quotes/lanyon.md
             - Setting Quotes: english/literature/jekyll_and_hyde/quotes/setting.md
     - Language:
       - Overview: english/language/index.md

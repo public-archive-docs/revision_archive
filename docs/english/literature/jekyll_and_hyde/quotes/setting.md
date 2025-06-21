@@ -77,3 +77,36 @@
 ### "no one had appeared to drive away these random vistors or repair their ravages"
 
 - The house is abandoned and neglected
+
+
+## Chapter 2
+
+### "the face of the fogged city moon"
+
+- Personifies the moon using pathetic fallacy of the scene's mood
+- Fog represents the concealed nature about the case and the mystery of Hyde, finding more about him
+
+---
+
+### "It was a fine dry night; frost in the air, the streets as clean as a ballroom floor; the lamps, unshaken by any wind, drawing a regular pattern of light and shadow"
+
+- Pathetic fallacy gives the effect of mystery
+- Oxymoron - light and shadow
+
+---
+
+### "low growl of London"
+
+- Zoomorphism
+
+---
+
+### "small sounds carried far; domestic sounds"
+
+- The sibilance of small sounds gives an eerie effect
+
+---
+
+### "he gave a number of a street in Soho"
+
+- Soho is a unpleasant side of London full of criminality and poverty

@@ -6,7 +6,7 @@ These include:
 	- Superego - part of person that has conscience of ethics and morals and being able to make decisions
 	- Id       - animalistic natures of a person
 - Class hierachy
-- Secrecy
+- Secrecy/Barriers
 - Animalism
 - Reputation
 - Supernatural
@@ -14,3 +14,4 @@ These include:
 - Science
 - Religion
 - Victorian era values
+	- They're a pretty hierarchal and patriarchal society
