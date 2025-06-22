@@ -138,4 +138,4 @@
 
 ### "I read Satan's signature upon a face"
 
-- Parallels Hyde and the Devil, they are similar
+- Parallels Hyde and the Devil, they are the same in comparable qualities - Hyde is associated with evil

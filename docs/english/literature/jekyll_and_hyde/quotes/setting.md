@@ -110,3 +110,10 @@
 ### "he gave a number of a street in Soho"
 
 - Soho is a unpleasant side of London full of criminality and poverty
+
+---
+
+### "[Jekyll's house] which were a great air of wealth and comfort though it was now plunged in darkness"
+
+- Duality - great air of wealth representing Jekyll and the darkness representing Hyde
+- Foreshadows Jekyll's predicament

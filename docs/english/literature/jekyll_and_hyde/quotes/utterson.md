@@ -148,6 +148,13 @@
 
 ---
 
-### "only grunted in acknowledgment of the address"
+### "[Utterson] only grunted in acknowledgment of the address"
 
 - Utterson is taking on some of the animalistic natures of Hyde
+
+---
+
+### "Your master seems to repose a great deal of trust in that young man..." resumed the other musingly
+
+- This expands on Utterson's caring nature as the word "musingly" shows deep thought or contemplation
+	- He cares for his friend, Jekyll, wondering if theres any ulterior motive to why Hyde has a key to Jekyll's house
