@@ -92,6 +92,8 @@
 
 - Metaphor: Uterrson and Enfield consider their Sunday walks the most precious thing
 
+---
+
 
 ## Chapter 2
 
@@ -158,3 +160,57 @@
 
 - This expands on Utterson's caring nature as the word "musingly" shows deep thought or contemplation
 	- He cares for his friend, Jekyll, wondering if theres any ulterior motive to why Hyde has a key to Jekyll's house
+
+---
+
+
+## Chapter 5
+
+### "it is an ugly business"
+
+- Utterson knows that this business regarding Jekyll is messy and could lead to a scandal, threatening his reputation
+	- Therefore he keeps this between Mr. Guest and himself
+
+---
+
+
+## Chapter 6
+
+### "A great curiosity came on the trustee, to disregard the prohibition and dive at once to the bottom of the mysteries; but professional honour and faith to his dead friend were stringent obligations"
+
+- Duality of Utterson
+	- Wants to open letter
+	- However, relation with Lanyon holds him back and his respect, therefore honouring his friend's wishes
+
+---
+
+### "[Utterson] preferred to speak with Poole upon the doorstep and surrounded by the air and sounds of the open city rather to be admitted into that house of voluntary bondage"
+
+- The semantics of freedom of Utterson contrasts the semantics of imprisonment that Jekyll "voluntary" chose to be confined in his house
+
+---
+
+
+## Chapter 8
+
+### ""What, what? Are you all here?" said the lawyer peevishly. "Very irregular, very unseemly; your master would be far from pleased"
+
+- repetition of questions reveals Utterson's anger, contrasting his stoic nature described in [Chapter 1](../timeline.md/#chapter-1)
+- Concerned with reputation and respectability
+
+---
+
+### ""I shall consider it my duty to break in that door""
+
+- Shall is honourable
+- He is about to remove the barriers surrounding the entire play
+
+---
+
+### "I believe poor Harry is killed; and I believe his murderer is still lurking in his victim's room"
+
+- Utterson refers Jekyll as "poor Harry", reminding the reader of their close relationship
+- The anaphora repetition of "I believe" demonstrates Utterson's convinction
+- This quote builds tension and is the main climax of the novella, the truth about whos in the cabinet is about to be revealed
+
+---

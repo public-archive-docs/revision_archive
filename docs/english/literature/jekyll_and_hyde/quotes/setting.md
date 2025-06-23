@@ -78,6 +78,8 @@
 
 - The house is abandoned and neglected
 
+---
+
 
 ## Chapter 2
 
@@ -117,3 +119,136 @@
 
 - Duality - great air of wealth representing Jekyll and the darkness representing Hyde
 - Foreshadows Jekyll's predicament
+
+---
+
+
+## Chapter 4
+
+### "the first fog of the season"
+
+- Patheic fallacy
+	- Reflects on the Great Smog of London
+	- Happens directly after the description of Carew's murder
+	- The smog being man-made makes it unnatural
+
+---
+
+### "a great chocolated-coloured pall lowered over heaven"
+
+- A pall is a cloth spread over a coffin
+	- Links to Carew's murder
+- Lowered over heaven links to evil
+
+---
+
+### "the wind was continually charging and routing these embattled vapours"
+
+- Use of war imagery on the weather with pathetic fallacy
+
+---
+
+### "[Utterson] beheld a marvelous number of degrees and hues of twilight"
+
+- Enhances the mystery and obscurity of the plot
+
+---
+
+### "glow of rich, lurid brown like the light of some strange conflagration"
+
+- The fog was unnatural
+	- Enhanced by "lurid" and "strange"
+- Simile comparing it to Hell fires
+
+---
+
+
+## Chapter 5
+
+### "[Utterson] crossed the theatre, once crowded with eager students, now lying gaunt and silent"
+
+- Juxtaposes each other, full of life, now desolate and neglected
+- Shows Jekyll's reputation
+
+---
+
+### "a door covered with red baize"
+
+- The door to Jekyll's cabinet is covered in red which connotes to danger
+- Foreshadows Hyde's occupation of the cabinet
+
+---
+
+### "The fog still slept on the wing of above the drowned city"
+
+- Personifies the fog as "sleeping", being a daily occurence as humans sleep
+- Drowned implies the city is concealed and hidden, giving a mysterious atmosphere
+
+---
+
+### "the lamps glimmered like carbuncles; through the muffle and smother"
+
+- The fog is so thick and dense that the lamps appear as unpleasant red swollen spots (carbuncles = cluster of boils)
+
+---
+
+### "the colour grows richer in stained windows; and the glow of the hot autumn afternoons on hillside vineyards was ready to be set free and to disperse the fogs of London"
+
+- The colours are bright passing through the stained glass windows contrasting the gloomy fog outside
+- The glow of the hot autumn afternoons on hillside vineyards invokes a feeling of warmth and security
+- To disperse the fogs of London depicts there is hope
+
+---
+
+
+## Chapter 7
+
+### "the by-street; and that when they came infront of the door"
+
+- Cyclical return to the opening of the novella, back to the door
+
+---
+
+### "The court was very cool and a little damp, and full of premature twilight"
+
+- Creates an eerie atmosphere
+	- twilight - obscurity
+
+---
+
+
+## Chapter 8
+
+### "it was a wild, cold, seasonable night of March, with a pale moon, lying on her back as though the wind had tilted her, and a flying wrack of the most diaphanous and lawny texture"
+
+- Wild an adjective refers to animalistic features which can suggest to Hyde's reveal in Jekyll's cabinet later
+- Eerie atmosphere
+- Personification of the moon, the moon on "her back" paints vulnerability
+
+---
+
+### "flecked the blood into the face"
+
+- Image of horror and chilling, contributes to the eerie atmosphere
+
+---
+
+### "a crushing anticipation of calamity"
+
+- Foreshadowing and building tension to a calamity
+- A calamity is a major event, this relates to the grand reveal of whos in the cabinet and Hyde killing himself
+
+---
+
+### "the thins trees... were lashing themselves along the railing"
+
+- Lashing refers to whipping themselves, self-harm.
+- Personification
+
+---
+
+### "biting weather"
+
+- Zoomorphism - the weather is wild and feral
+
+---

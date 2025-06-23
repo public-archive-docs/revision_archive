@@ -58,8 +58,10 @@
 
 ### "something wrong with his appearance; something displeasing, something detestable"
 
-- Hyde is regarding as inhuman with the repitition of 'something'
+- Hyde is regarding as inhuman with the repetition of 'something'
 - Hyde as usually invokes a visceral reaction to people who lay sight on him, described as disgusting
+
+---
 
 
 ## Chapter 2
@@ -139,3 +141,223 @@
 ### "I read Satan's signature upon a face"
 
 - Parallels Hyde and the Devil, they are the same in comparable qualities - Hyde is associated with evil
+
+---
+
+## Chapter 4
+
+### "Hyde... for whom she had conceived a dislike"
+
+- Hyde's presence imposes on who sees him a feeling of prejudice to dislike him as his presence is "evil"
+
+---
+
+### "but he answered never a word"
+
+- Hyde's silence suggests that the attack on Carew was thought out without a good argument or reason for why he attacks him, pure evil
+
+---
+
+### "seemed to listen with an ill-contained impatience"
+
+- Hyde's impaitence with others is barely contained, he fails to hide it and lets it slip out
+- Opposite to a Victorian gentleman, who is supposed to be paitent and polite
+
+---
+
+### "[Hyde] broke out in a great flame of anger, stamping with his foot"
+
+- A metaphor describing his anger
+	- Described as a flame linking to Hell, Hell's flame is inextinguishable (eternal) relating to Hyde's anger, it cannot be stopped, indestructible
+- Stamping the verb enhances to visciousness of Hyde's attack aswell the attack being vindictive, no reason for it to be happening, Hyde is just evil
+
+---
+
+### "like a madman"
+
+- Hyde's behaviour has changed to a violent, insane lunatic
+
+---
+
+### "[Hyde] broke all bounds and clubbed him to the earth"
+
+- Hyde rejecting the Victorian gentlemen expectations completely, pure evil is acting
+- Clubbed the verb enhances the visciousness of Hyde's attack
+
+---
+
+### "with ape-like fury"
+
+- Zoomorphism - compared to an ape, underdeveloped human, linking to Darwinism showing the attack to be without reason and pure evil
+
+---
+
+### "[Hyde] was trampling his victim under foot and hailing a storm of blows"
+
+- The verbs trampling and hailing enhances the visciousness of his attack
+
+---
+
+### "under which the bones were audibly shattered"
+
+- The onomatopoeia can be imagined by the reader which enhances the visciousness of the attack
+
+---
+
+### "his victim... incredibly mangled"
+
+- This enhances the visciousness of the attack, depicting Carew as prey that Hyde had hunted on - animalistic, Hyde is a predator
+
+---
+
+### "insensate cruelty"
+
+- The attack was without reason, Hyde did this attack under pure evil
+
+---
+
+### "A flash of odious joy appeared upon the woman's face"
+
+- Hyde is disliked by many of whom see him
+
+---
+
+
+## Chapter 5
+
+### "The man... was mad"
+
+- Uncontrollable, unpredictable as seen in Utterson's encounter with Hyde [in this quote](#muderous-mixture-of-timidity-and-boldness)
+
+---
+
+
+## Chapter 6
+
+### "Much of his past was unearthed"
+
+- Unearthed relates to secrecy
+
+---
+
+### "all disreputable: tales came out of the man's cruelty... so callous and violent"
+
+- The stories about Hyde's deeds are all regarded as unacceptable
+- The acts he had done are cruel, insensitive and violent to others
+
+---
+
+
+## Chapter 8
+
+### "the body of a man sorely contorted and still twitching"
+
+- Imagery of horror and agony
+
+---
+
+### "He was dressed in clothes far too large for him"
+
+- Clues, foreshadowing to Hyde's identity reveal
+
+---
+
+### "body of a selfdestroyer"
+
+- selfdestroyer is suicide, a sin
+	- Some softened up in their attitudes to suicide at the time
+
+---
+
+
+## Chapter 9
+
+### "volatile"
+
+- Relates to his temper - short lived
+
+---
+
+### "a small man crouching against a pillar"
+
+- Animalistic - ready to pounce
+
+---
+
+### "I was struck besides with the shocking expression of his face, with his remarkable combination of great muscular activity and great apparent debility of constitution"
+
+- Disturbed by Hyde's appearance, a common occurence
+
+---
+
+### "the waist of his coat below his haunches, and the collar sprawling wide upon his collar"
+
+- Clues to Hyde's identity, same clothes as Jekyll in [Chapter 8](../timeline.md/#chapter-8)
+
+---
+
+### "there was something abnormal and misbegotten"
+
+- Victorian anxiety of the "other"
+- Hyde is inhuman
+
+---
+
+### "the creature"
+
+- Zoomorphism
+
+---
+
+### "something seizing, suprising and revolting"
+
+- Sibilance - usually used when describing Hyde
+
+---
+
+### "My visitor was, indeed on fire with sombre excitement"
+
+- Hyde's desperation, reflecting Jekyll's letter
+- Fire has connotations of danger
+
+---
+
+### "a certain icy pang along my blood"
+
+- Replusion Hyde invokes into others whom witness him
+
+---
+
+### "my impaitence has shown its heels to my politeness"
+
+- Juxtaposing words, foreshadowing Hyde's identity reveal
+
+---
+
+### "Will you be wise? Will you be guided?"
+
+- Arrogance displayed by Hyde
+- Jekyll's contempt for Lanyon being conventional instead of exploring ideas leaks into Hyde's personality
+
+---
+
+### "or the has the greed of curiosity too much command of you?"
+
+- Biblical language
+	- Danger of curiosity
+	- Sin of temptation
+
+---
+
+### "he reeled, staggered, clutched at the table and held on"
+
+- Visual description used to create imagery of pain and horror
+
+---
+
+
+## Chapter 10
+
+### "drinking pleasure... from any degree of torture to another"
+
+- Sadistic
