@@ -7,6 +7,9 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
 
 theme:
   name: material
@@ -92,6 +95,14 @@ nav:
         - Overview: sciences/chemistry/formulae_equations_hazards/index.md
       - Bonding:
         - Overview: sciences/chemistry/bonding/index.md
+        - Forming Ions: sciences/chemistry/bonding/forming_ions.md
+        - Ionic Formulae: sciences/chemistry/bonding/ionic_formulae.md
+        - Ionic Bonding: sciences/chemistry/bonding/ionic_bonding.md
+        - Ionic Properties: sciences/chemistry/bonding/ionic_properties.md
+        - Metallic Bonding: sciences/chemistry/bonding/metallic_bonding.md
+        - Covalent Bonding: sciences/chemistry/bonding/covalent_bonding.md
+        - Covalent Properties: sciences/chemistry/bonding/covalent_properties.md
+        - Allotropes Of Carbon: sciences/chemistry/bonding/allotropes_of_carbon.md
       - Groups in the Periodic Table:
         - Overview: sciences/chemistry/groups_in_the_periodic_table/index.md
       - Reactions of Acids:
