@@ -139,6 +139,12 @@ nav:
         - Energy Calculations: sciences/chemistry/energy_in_reactions/energy_calculations.md
       - Reversible Reactions and Equilibrium:
         - Overview: sciences/chemistry/reversible_reactions_and_equilibrium/index.md
+        - Reversible Reactions: sciences/chemistry/reversible_reactions_and_equilibrium/reversible_reactions.md
+        - Dynamic Equilibrium: sciences/chemistry/reversible_reactions_and_equilibrium/dynamic_equilibrium.md
+        - Changing Conditions: sciences/chemistry/reversible_reactions_and_equilibrium/changing_conditions.md
+        - Haber Process: sciences/chemistry/reversible_reactions_and_equilibrium/haber_process.md
+        - Fertilisers and Making Ammonium Salts: sciences/chemistry/reversible_reactions_and_equilibrium/fertilisers_and_making_ammonium_salts.md
+        - Making Ammonia in the Lab: sciences/chemistry/reversible_reactions_and_equilibrium/making_ammonia_in_lab.md
       - Electrolysis:
         - Overview: sciences/chemistry/electrolysis/index.md
 
