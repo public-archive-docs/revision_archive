@@ -114,6 +114,12 @@ nav:
         - Noble Gases: sciences/chemistry/groups_in_the_periodic_table/noble_gases.md
       - Reactions of Acids:
         - Overview: sciences/chemistry/reactions_of_acids/index.md
+        - Acids: sciences/chemistry/reactions_of_acids/acids.md
+        - Solubility Rules: sciences/chemistry/reactions_of_acids/solubility_rules.md
+        - Preparing Insoluble Salts: sciences/chemistry/reactions_of_acids/preparing_insoluble_salts.md
+        - Making Soluble Salts using a Insoluble Base: sciences/chemistry/reactions_of_acids/making_soluble_salts_using_unsoluble_base.md
+        - Using Titration: sciences/chemistry/reactions_of_acids/using_titration.md
+        - Investigating Change in pH: sciences/chemistry/reactions_of_acids/investigating_change_in_ph.md
       - Obtaining and Using Metals:
         - Overview: sciences/chemistry/obtaining_and_using_metals/index.md
       - Energy in Reactions:
