@@ -133,6 +133,10 @@ nav:
         - Alloys: sciences/chemistry/obtaining_and_using_metals/alloys.md
       - Energy in Reactions:
         - Overview: sciences/chemistry/energy_in_reactions/index.md
+        - Exothermic Reactions: sciences/chemistry/energy_in_reactions/exothermic_reactions.md
+        - Endothermic Reactions: sciences/chemistry/energy_in_reactions/endothermic_reactions.md
+        - Breaking and Making Bonds: sciences/chemistry/energy_in_reactions/breaking_making_bonds.md
+        - Energy Calculations: sciences/chemistry/energy_in_reactions/energy_calculations.md
       - Reversible Reactions and Equilibrium:
         - Overview: sciences/chemistry/reversible_reactions_and_equilibrium/index.md
       - Electrolysis:
