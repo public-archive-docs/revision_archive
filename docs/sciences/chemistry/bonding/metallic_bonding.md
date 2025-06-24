@@ -6,7 +6,9 @@
 - Ductile
 - Shiny
 - Malleable
+	- when rearranged oppositely charged cations and anions still attract
 - Conducts electricity
+	- delocalised electrons
 - Hard
 - High tensile strength
 - High melting point
